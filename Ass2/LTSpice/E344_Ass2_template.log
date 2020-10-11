@@ -1,0 +1,141 @@
+Circuit: * C:\work\E344\E344\Ass2\LTSpice\E344_Ass2_template.asc
+
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 6.68666
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+Gmin = 6.72377
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 6.72131
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 1.70455%
+Source Step = 3.59848%
+Source Step = 5.49242%
+Source Step = 7.38636%
+Source Step = 9.2803%
+vernier = 0.09375
+Source Step = 11.9318%
+Source Step = 14.7727%
+Source Step = 17.6136%
+Source Step = 20.4545%
+Source Step = 21.0449%
+Source Step = 21.0893%
+Source Step = 21.1337%
+Source Step = 21.1781%
+Source Step = 21.2225%
+Source Step = 21.2669%
+vernier = 0.00219727
+Source Step = 21.3224%
+Source Step = 21.3889%
+Source Step = 21.4555%
+Source Step = 21.5221%
+Source Step = 21.5887%
+vernier = 0.0032959
+Source Step = 21.6686%
+Source Step = 21.7685%
+Source Step = 21.8683%
+Source Step = 21.9682%
+Source Step = 22.0681%
+vernier = 0.00494385
+Source Step = 22.183%
+Source Step = 22.3328%
+Source Step = 22.4826%
+Source Step = 22.6324%
+Source Step = 22.7822%
+vernier = 0.00741577
+Source Step = 22.947%
+Source Step = 23.1717%
+Source Step = 23.3964%
+Source Step = 23.6212%
+Source Step = 23.8459%
+vernier = 0.0111237
+Source Step = 24.0818%
+Source Step = 24.4189%
+Source Step = 24.756%
+Source Step = 25.0931%
+Source Step = 25.4302%
+Source Step = 25.7672%
+vernier = 0.0166855
+Source Step = 26.2729%
+Source Step = 26.7785%
+Source Step = 27.2841%
+Source Step = 27.7897%
+Source Step = 28.2953%
+vernier = 0.0250282
+Source Step = 29.0285%
+Source Step = 29.7869%
+Source Step = 30.5454%
+Source Step = 31.3038%
+Source Step = 32.0622%
+vernier = 0.0375423
+Source Step = 33.124%
+Source Step = 34.2617%
+Source Step = 35.3993%
+Source Step = 36.537%
+Source Step = 37.6746%
+vernier = 0.0563135
+Source Step = 39.2104%
+Source Step = 40.9169%
+Source Step = 42.6234%
+Source Step = 44.3298%
+Source Step = 46.0363%
+vernier = 0.0844703
+Source Step = 48.2547%
+Source Step = 50.8144%
+Source Step = 53.3741%
+Source Step = 55.9338%
+Source Step = 58.4935%
+vernier = 0.126705
+Source Step = 61.6932%
+Source Step = 65.5327%
+Source Step = 69.3723%
+Source Step = 73.2118%
+Source Step = 77.0514%
+vernier = 0.190058
+Source Step = 81.6589%
+Source Step = 87.4182%
+Source Step = 93.1776%
+Source Step = 96.6332%
+Source Step = 97.3801%
+Source Step = 97.4701%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 21.2121%
+Source Step = 26.8939%
+Source Step = 28.7879%
+Source Step = 30.0663%
+Source Step = 30.3859%
+Source stepping failed
+
+Pseudo Transient failed in finding the operating point at 211.851 ms.
+Trouble finding operating point....skipping operating point for Transient analysis.
+Changing Tseed to 1e-007
+Changing Tseed to 1e-009
+Changing Tseed to 1e-006
+Changing Tseed to 1e-010
+Changing Tseed to 1e-005
+Changing Tseed to 1e-011
+Changing Tseed to 0.0001
+Changing Tseed to 1e-012
+Changing Tseed to 0.001
+Changing Tseed to 1e-013
+Changing Tseed to 0.01
+Changing Tseed to 1e-014
+Fatal Error: Analysis:  Time step too small; initial timepoint: trouble with u6:jx-instance j:u6:2
+
